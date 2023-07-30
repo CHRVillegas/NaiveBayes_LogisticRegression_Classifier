@@ -1,5 +1,3 @@
-# Assignment 1: Naive Bayes and Logistic Regression
-This assignment implements various classification models (Specifically Naive Bayes and Logistic Regression) which can both be found in the classifiers.py file.
 ## Usage
 For Naive Bayes in main.py be sure to set the required model to NaiveBayesClassifier() and to fit your desired data to the model. Then finally call predict to get accuracy scores.
 
